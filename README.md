@@ -1,4 +1,4 @@
-# -instagram-dio
+# Instagram DIO
 Desafio DIO
 Este desafio é da Digital Innovation One
 Você pode encontrar o código original em:
